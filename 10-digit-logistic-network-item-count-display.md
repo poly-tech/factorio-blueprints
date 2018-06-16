@@ -6,7 +6,7 @@ A full yellow bar means that the combinator is misconfigured.
 
 ![not-configured](.attachments/10-digit-logistic-network-item-count-display-not-configured.png)
 
-A blank bar means that the display has been configured. We have configured it here for steel plate.This has a count of 1,112,970. The hazzard concrete is to mark the digits. After the horizontal cut is five (Vertical top to bottom is `0 1 2 3 4 5 6 7 8 9 0`). And the vertical cuts represent digit seperators. 
+A blank bar means that the display has been configured. We have configured it here for steel plate.This has a count of 1,112,970. The hazzard concrete is to mark the digits. After the horizontal cut is five (Vertical top to bottom is `0 1 2 3 4 5 6 7 8 9`). And the vertical cuts represent digit seperators. 
 
 ![not-configured](.attachments/10-digit-logistic-network-item-count-display-steel-plate.png)
 
